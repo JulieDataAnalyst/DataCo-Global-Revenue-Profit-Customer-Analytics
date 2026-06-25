@@ -1,5 +1,33 @@
+
 # DataCo-Global-Revenue-Profit-Customer-Analytics
 Data analytics project analyzing DataCo's global supply chain operations using Excel, SQL Server, and Power BI to uncover revenue trends, profitability drivers, customer behavior, regional performance, and business insights.
+
+## Dataset Source
+
+Original Dataset:
+DataCo Smart Supply Chain Dataset (Kaggle)
+
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+
+## Cleaned Dataset
+
+The original DataCo dataset was cleaned and transformed in Microsoft Excel before analysis.
+
+### Data Cleaning Activities
+
+- Removed unnecessary columns
+- Standardized date formats
+- Created Profit Margin (%) column
+- Created Margin Category (High, Mid, Low)
+- Checked for missing values
+- Validated duplicate records
+
+### Cleaned Dataset Access
+
+Due to GitHub file size limitations, the cleaned dataset is available through Google Drive:
+Download Cleaned Dataset:
+https://drive.google.com/your-link-here
+
 
 ## SQL Analysis
 
