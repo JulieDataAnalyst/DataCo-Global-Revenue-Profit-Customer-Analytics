@@ -65,5 +65,45 @@ The results showed that Southern Africa and Canada exhibited some of the highest
 ### Result
 <img width="1366" height="734" alt="SQL Query 3 Market Profitability" src="https://github.com/user-attachments/assets/821b7f06-e1e7-49c3-90c6-e3c3b310333c" />
 
+## Power BI Dashboard
+
+An interactive Power BI dashboard was developed to analyze revenue performance, profitability, customer behavior, and regional sales trends across DataCo's global supply chain operations.
+
+### Dashboard Features
+
+- Total Revenue KPI
+- Total Profit KPI
+- Total Orders KPI
+- Total Customers KPI
+- Revenue by Department
+- Revenue by Market
+- Revenue by Shipping Mode
+- Customer Segment Analysis
+- Interactive Slicers
+
+### Dashboard Preview
+
+### Dashboard Insights
+
+- Consumer customers generated the highest overall revenue.
+- Fan Shop emerged as the top-performing department by sales.
+- Repeat customers contributed significantly to total revenue.
+- Southern Africa and Canada demonstrated strong profit efficiency.
+- Revenue performance varied across markets and shipping modes.
+
+## Tools Used
+
+- Microsoft Excel
+- SQL Server (SSMS)
+- Power BI
+- GitHub
+
+## Author
+
+Julie Nwodo
+
+Aspiring Data Analyst
+
+
 
 
