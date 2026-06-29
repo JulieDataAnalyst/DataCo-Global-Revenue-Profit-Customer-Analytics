@@ -82,8 +82,7 @@ An interactive Power BI dashboard was developed to analyze revenue performance, 
 - Interactive Slicers
 
 ### Dashboard Preview
-
-
+<img width="894" height="505" alt="Dashboard" src="https://github.com/user-attachments/assets/d2a58d0e-cf0d-4d23-a375-256170b0510e" />
 
 ### Dashboard Insights
 
